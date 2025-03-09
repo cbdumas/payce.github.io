@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Payce
-email: info@payceup.co
+email: info@payceup.com
 description: >- # this means to ignore newlines until "baseurl:"
   Payce is modernizing the way businesses operate - starting with Revenue. We aim to completely automate
   the accounts receivable process, putting the tools to run it back into the right hands. 
