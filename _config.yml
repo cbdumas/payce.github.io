@@ -1,4 +1,4 @@
-orm# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -23,7 +23,7 @@ email: info@payceup.com
 description: >- # this means to ignore newlines until "baseurl:"
   Payce is modernizing the way businesses operate - starting with Revenue. We aim to completely automate
   the accounts receivable process, putting the tools to run it back into the right hands. 
-  With accounting automation as our data layer, we aim to build tools that accelerate growth, and optimize performance.
+  With accounting automation as our data layer, we aim to build tools that accelerate growth, and optimize cash flow.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: matthew_payce
