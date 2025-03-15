@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Payce is modernizing the way businesses operate - starting with Revenue. We aim to completely automate
   the accounts receivable process, putting the tools to run it back into the right hands. 
   With accounting automation as our data layer, we aim to build tools that accelerate growth, and optimize cash flow.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: matthew_payce
 github_username:  cbdumas
