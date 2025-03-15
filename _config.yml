@@ -31,7 +31,7 @@ github_username:  cbdumas
 permalink: pretty
 
 # Build settings
-theme: 
+theme: minima
 plugins:
   - jekyll-feed
 
